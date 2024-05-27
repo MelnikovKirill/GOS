@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfFilm xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Film>
+    <Number>1</Number>
+    <Name>Звонок</Name>
+    <Rejisser>Мельников</Rejisser>
+    <Year>2008</Year>
+  </Film>
+  <Film>
+    <Number>2</Number>
+    <Name>Оно</Name>
+    <Rejisser>Дунаев</Rejisser>
+    <Year>2018</Year>
+  </Film>
+  <Film>
+    <Number>3</Number>
+    <Name>1+1</Name>
+    <Rejisser>Лямзина</Rejisser>
+    <Year>2015</Year>
+  </Film>
+</ArrayOfFilm>
